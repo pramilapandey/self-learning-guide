@@ -5,6 +5,7 @@ Self learning guide to become a IT professional. Automated Software Testing, and
 # Fundamentals 
 
 - Introduction to Computers
+I studied history of computing, ...
 - Programming Basics (Python, Java, Javascript)
 - Data Structures
 - Algorithms
