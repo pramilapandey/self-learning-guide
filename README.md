@@ -14,6 +14,7 @@ I studied history of computing, ...
 - Memory and Storage
 - Computer Networking
 - Internet and Web
+- System Design
 - Cybersecurity
 
 # Web Development
