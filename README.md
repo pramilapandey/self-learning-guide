@@ -5,7 +5,7 @@ Self learning guide to become a IT professional. Automated Software Testing, and
 # Fundamentals 
 
 - Introduction to Computers
-- Programming Basics
+- Programming Basics (Python, Java, Javascript)
 - Data Structures
 - Algorithms
 - Operating Systems
@@ -20,7 +20,7 @@ Self learning guide to become a IT professional. Automated Software Testing, and
 - CSS
 - Javascript
 - Basic frontend tooling
-- Basic backend tooling (Node.js)
+- Basic backend tooling (Node.js, Python, Java)
 
 # Automated Software Testing
 
