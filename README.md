@@ -15,6 +15,12 @@ Self learning guide to become a IT professional. Automated Software Testing, and
 - Internet and Web
 - Cybersecurity
 
+# Web Development
+- HTML
+- CSS
+- Javascript
+- Basic frontend tooling
+- Basic backend tooling (Node.js)
 
 # Automated Software Testing
 
