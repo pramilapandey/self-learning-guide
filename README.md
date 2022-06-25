@@ -16,6 +16,7 @@ I studied history of computing, ...
 - Internet and Web
 - System Design
 - Cybersecurity
+- Git flow
 
 # Web Development
 - HTML
